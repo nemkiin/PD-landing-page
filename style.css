@@ -86,6 +86,12 @@ header .container{
 
    box-shadow: 15px 15px 15px grey;
 }
+.block-link h3{
+    color: black;
+}
+.block-link p{
+    color: #666;
+}
 .bg-gradient{
 background: linear-gradient(352deg, rgb(255, 255, 255) 50%, rgb(247,249,255) 0%);
 height: 100%;
